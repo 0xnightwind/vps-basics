@@ -1,1 +1,10 @@
+# VPS Basics Setup
+
+This repository contains scripts to quickly bootstrap a new VPS with essentials, Docker, and XRDP.
+
+## Quick Install
+
+Run the following one-liner to clone the repo and execute the master setup script:
+
+```bash
 rm -rf vps-basics && git clone git@github.com:0xnightwind/vps-basics.git && cd vps-basics && chmod +x setup_everything.sh && ./setup_everything.sh
