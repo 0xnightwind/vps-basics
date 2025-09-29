@@ -10,4 +10,5 @@ sudo apt install -y nodejs
 node -v
 sudo npm install -g yarn
 yarn -v
+sudo npm install -g localtunnel
 
